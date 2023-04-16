@@ -1,0 +1,41 @@
+.inline-block{
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+.logo{
+    width: 23%;
+    padding: 1%;
+
+}
+
+ul {
+    width: 50%;
+    margin-left: auto;
+
+}
+
+.logo {
+    text-align: center; 
+
+}
+
+footer {
+    background-color: #373738;
+    padding: center;
+
+
+}
+
+.flexContainer{ 
+    display: flex;
+    flex-direction: column;
+    width: 33%;
+}
+
+.workGrid{
+    display: grid;
+
+
+}
